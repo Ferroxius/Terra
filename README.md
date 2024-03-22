@@ -1,5 +1,5 @@
 # Terra
-![Terrasplash](https://github.com/Ferroxius/Terra/assets/88400328/075427b8-fd00-4641-8871-6f7abef15764)
+![Terrasplash2](https://github.com/Ferroxius/Terra/assets/88400328/bd28a432-e6f8-4f04-a38f-eac814e4fe7d)
 
 ## Contents
 - [Introduction](#introduction)
