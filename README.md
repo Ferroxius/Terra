@@ -18,7 +18,7 @@
 
 
 ## Introduction
-Welcome to Kinshu, a Witcher 1 Enhanced Edition modlist. 
+Welcome to Terra, a Witcher 1 Enhanced Edition modlist. 
 
 This is a modlist that contains a small amount of mods with the intention of uplifting the game a bit while still being the game of old
 
